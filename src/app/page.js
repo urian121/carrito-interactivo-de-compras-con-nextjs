@@ -44,7 +44,7 @@ export default function Home() {
           <div className="col-12 col-lg-10 col-xl-8">
             <div className="card border-0" style={{boxShadow: '0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1)', borderRadius: '12px'}}>
             {/* Encabezado del carrito */}
-              <CartHeader totalProductos={totalProductos} />
+              <CartHeader />
               {/* Tabla de productos */}
               <ProductTable 
                 productos={productos}

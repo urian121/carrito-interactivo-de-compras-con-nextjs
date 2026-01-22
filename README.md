@@ -1,4 +1,4 @@
-# Carrito Interactivo de Compras
+# Carrito Interactivo de Compras con Next.js y Bootstrap 5
 
 Un carrito de compras moderno y responsivo construido con **Next.js** y **Bootstrap 5**, con diseño inspirado en Shadcn/ui.
 Permite gestionar productos de forma interactiva con funciones de incremento/decremento de cantidad, eliminación de items,
